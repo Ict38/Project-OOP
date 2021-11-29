@@ -57,6 +57,9 @@
 								Full Description:
 								<textarea  style="height:200px;width:500px;" form="f1" >${product.des }</textarea>
 								Change The Description Here:
+								
+								
+								
 								<input type='text' class="form-control text-center" name='des'
 									value="${product.des }" />
 								Image:
